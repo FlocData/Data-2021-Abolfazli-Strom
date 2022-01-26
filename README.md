@@ -3,7 +3,7 @@ Data associated with the paper by Abolfazli and Strom (2021) on the impact of sa
 
 Settling data are available in the Settling_data folder.
 
-Floc size data are available in the Size_data folder. Values are in $\mu m$. 
+Floc size data are available in the Size_data folder. Values are in microns. 
 
 
 
