@@ -1,7 +1,10 @@
 # Data-2021-Abolfazli-Strom
 Data associated with the paper by Abolfazli and Strom (2021) on the impact of salinity from road way salts on suspended flocs in fresh stream water.
 
-The settling data are available in the Settling_data folder.
+Settling data are available in the Settling_data folder.
+
+Floc size data are available in the Size_data folder.
+
 
 **Data will be added if the paper is published**
 
